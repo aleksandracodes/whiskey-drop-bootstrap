@@ -197,3 +197,8 @@ body {
     margin-top: 10px;
     color: #f05f40;
 }
+
+.feature .btn:hover {
+    background-color: #f05f40;
+    color: white;
+}
