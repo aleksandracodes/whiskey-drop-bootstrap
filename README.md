@@ -1,3 +1,5 @@
+# Whiskey Drop
+
 This is a landing page created with Bootstrap as part of the Code Institute Full Stack Diploma in Software Development.
 
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
